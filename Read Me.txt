@@ -1,0 +1,5 @@
+# shyBox
+
+Arduino | SFU SIAT
+
+For parts and wiring please refer to the pdf
